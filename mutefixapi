@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+from sys import argv
+with open("/sys/kernel/debug/ec/ec0/io",'r+b') as file:
+    file.seek(int(argv[1]))
+    file.write(bytes((int(argv[2]),)))
