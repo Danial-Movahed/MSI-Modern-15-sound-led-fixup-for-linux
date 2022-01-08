@@ -10,7 +10,7 @@ Clone the repository:
 ```
 git clone https://github.com/Danial-Movahed/MSI-Modern-15-sound-led-fixup-for-linux.git
 ```
-Double click install.sh
+Execute install.sh
 
 After the installation is finished, a notification will pop up.
 
