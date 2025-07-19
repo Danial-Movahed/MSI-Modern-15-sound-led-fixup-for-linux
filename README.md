@@ -19,4 +19,4 @@ After the installation is finished, a notification will pop up.
 There is a delay of 0.2 at the end of muteledctl.py. This is to reduce the CPU usage when the neither of the buttons are pressed.
 
 # Credits
-[YodyPa](https://github.com/YoyPa) for [isw](https://github.com/YoyPa/isw): A program for controlling the fans in MSI laptops (Bits of code where used from this project)
+[YoyPa](https://github.com/YoyPa) for [isw](https://github.com/YoyPa/isw): A program for controlling the fans in MSI laptops (Bits of code where used from this project)
